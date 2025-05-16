@@ -119,4 +119,4 @@ For a full list of commands, use `/help` in [telegram](https://t.me/AqiaBot).
 
 <br />
 
-- <b> _Sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ʏᴀsɪʀ](https://github.com/YasirAkhtar) ғᴏʀ [Cʟᴏɴɪғʏ](https://github.com/TeamProBots/Clonify)._ </b>
+- <b> _Sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [᧘ʙᴜsᴇʀ_ᴋᴀʀᴍᴀ](https://github.com/YasirAkhtar) ғᴏʀ [Cʟᴏɴɪғʏ](https://github.com/TeamProBots/Clonify)._ </b>
