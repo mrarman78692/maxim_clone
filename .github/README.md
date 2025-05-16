@@ -1,5 +1,5 @@
 <h2 align="center">
-    ───「 ᴄʟᴏɴɪғʏ 」───
+    ↻ ᴍᴀxɪᴍ ᴄʟᴏɴɪғʏ ↺
 </h2>
 
 <p align="center">
@@ -102,15 +102,15 @@ For a full list of commands, use `/help` in [telegram](https://t.me/AqiaBot).
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="center">
-    ─「 sᴜᴩᴩᴏʀᴛ 」─
+    ↻ sᴜᴩᴩᴏʀᴛ ↺
 </h3>
 
 <p align="center">
-<a href="https://t.me/ProBotGc"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/spicyxnetwork"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://t.me/ProBotts"><img src="https://img.shields.io/badge/-Update%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/spicyxnetwork"><img src="https://img.shields.io/badge/-Update%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <br />
