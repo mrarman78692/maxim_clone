@@ -15,7 +15,7 @@ API_HASH = getenv("API_HASH")
 BOT_TOKEN = getenv("BOT_TOKEN")
 BOT_ID = getenv("BOT_ID")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","ZeoXpro")
+OWNER_USERNAME = getenv("OWNER_USERNAME","NoMoreMaxim")
 # --------------------------------------------------------
 BOT_USERNAME = getenv("BOT_USERNAME" , "AqiaBot")
 # --------------------------------------------------------
@@ -41,7 +41,7 @@ LOGGER_ID = int(getenv("LOGGER_ID"))
 CLONE_LOGGER = LOGGER_ID
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 7355202884))
+OWNER_ID = int(getenv("OWNER_ID", 7381712992))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 # config.py
@@ -72,7 +72,7 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/ProBotts")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/spicyxnetwork")
 SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/ProBotGc")
 CHAT = getenv("CHAT", "https://t.me/ProBotGc")
 # ------------------------------------------------------------------------------
