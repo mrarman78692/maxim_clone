@@ -17,7 +17,7 @@ BOT_ID = getenv("BOT_ID")
 # -------------------------------------------------------
 OWNER_USERNAME = getenv("OWNER_USERNAME","NoMoreMaxim")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "AqiaBot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "ShizuXMusic_Bot")
 # --------------------------------------------------------
 BOT_NAME = getenv("BOT_NAME" , "Aqia")
 # ---------------------------------------------------------
@@ -72,9 +72,9 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/spicyxnetwork")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/ProBotGc")
-CHAT = getenv("CHAT", "https://t.me/ProBotGc")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/AarumiBots")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+K9WmIt3aTEtiYzZl")
+CHAT = getenv("CHAT", "https://t.me/+K9WmIt3aTEtiYzZl")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
